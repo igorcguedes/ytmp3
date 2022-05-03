@@ -10,6 +10,6 @@ The most efficient way to run the script:
                 
     ytmp3 -c -o "Name of the song"
 
-I recommend place the script in a desired folder, ~/scripts for example, and exporting to .zsrch or bash.
+It is recommended to add the script to the desired folder, ~/scripts for example and exporting to .zsrch or bash.
 
     export PATH=$HOME/scripts/:$PATH
